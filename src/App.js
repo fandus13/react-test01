@@ -20,7 +20,7 @@ class App extends Component {
           >
             Learn React change
           </a>
-          <Welcome name="Obama" />
+          <Welcome name="master of SSH Pushing" />
         </header>
       </div>
     );
